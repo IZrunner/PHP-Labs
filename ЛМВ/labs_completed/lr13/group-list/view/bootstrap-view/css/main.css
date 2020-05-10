@@ -1,0 +1,19 @@
+div.group-list, div.user-info, div.group-control, div.table-students {
+	margin-top: 20px;
+}
+
+section.students {
+	margin-top: 40px;
+}
+
+div.user-info a, div.group-control a {
+	margin-left: 10px;
+}
+
+div.table-students table th {
+	text-align: center;
+}
+
+div.add-stud {
+	margin-bottom: 10px;
+}

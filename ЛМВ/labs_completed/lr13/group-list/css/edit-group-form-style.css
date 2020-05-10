@@ -1,0 +1,52 @@
+form {
+	display: table;
+	padding-top: 20px;
+}
+
+form div {
+	display: table-row;
+	line-height: 40px;
+}
+
+form div label, form div input {
+	display: table-cell;
+	font-size: 14pt;
+}
+
+form div label {
+	padding-right: 10px;
+	white-space: nowrap;
+}
+
+form div input {
+	padding-right: 10px;
+	border: 1px solid black;
+	padding: 2px 4px;
+}
+
+input[name = 'number'] {
+	width: 200px;
+}
+
+input[name = 'starosta'] {
+	width: 200px;
+}
+
+input[name = 'department'] {
+	width: 200px;
+}
+
+input[name = 'ok'] {
+	margin-top: 16%;
+	padding: 2px 18px;
+}
+
+a {
+	font-size: 14pt;
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	color: skyblue;
+}

@@ -1,0 +1,25 @@
+To: m.dvoretskiy@gmail.com
+Subject: =?UTF-8?B?W9CU0L7Qv9C+0LzQvtCz0LAg0YHRgtGD0LTQtdC90YLRgyBJVF0g0JLQsNGI?=  =?UTF-8?B?INGB0LDQudGCINC+0LHQvdC+0LLQu9GR0L0g0LTQviBXb3JkUHJlc3MgNS4=?=  =?UTF-8?B?MC40?=
+X-PHP-Originating-Script: 0:class-phpmailer.php
+Date: Wed, 13 Mar 2019 16:42:51 +0000
+From: WordPress <wordpress@edu-portal>
+Message-ID: <ee1ce3deb5869dffcf2d6eca8d18b755@edu-portal>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Привет! Ваш сайт http://edu-portal был автоматически обновлён до WordPress 5.0.4.
+
+Подробности о версии 5.0.4 можно узнать на экране "О WordPress":
+http://edu-portal/wp-admin/about.php
+
+Также доступен WordPress 5.1.1. Процедура обновления проста и займёт всего несколько секунд:
+http://edu-portal/wp-admin/update-core.php
+
+Если вы столкнётесь с проблемами и вам понадобится поддержка, вам помогут волонтёры на форумах WordPress.org.
+https://ru.wordpress.org/support/
+
+Своевременно обновлять сайт важно из соображений безопасности. Это также делает Интернет более безопасным местом для вас и ваших читателей.
+
+Команда WordPress

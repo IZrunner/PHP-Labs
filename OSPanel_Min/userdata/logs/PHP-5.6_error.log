@@ -1,0 +1,26 @@
+[08-Jan-2019 09:22:11 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:22:11 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:22:18 Europe/Moscow] PHP Notice:  Undefined index: login_not_save in C:\OSPanel\domains\300miners\engine\modules\sitelogin.php on line 81
+[08-Jan-2019 09:22:18 Europe/Moscow] PHP Notice:  Undefined index: dle_newpm in C:\OSPanel\domains\300miners\engine\init.php on line 428
+[08-Jan-2019 09:22:19 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:22:19 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:26:50 Europe/Moscow] PHP Notice:  Undefined index: login_not_save in C:\OSPanel\domains\300miners\engine\modules\sitelogin.php on line 81
+[08-Jan-2019 09:26:50 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:26:50 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:30:51 Europe/Moscow] PHP Notice:  Undefined index: login_not_save in C:\OSPanel\domains\300miners\engine\modules\sitelogin.php on line 81
+[08-Jan-2019 09:30:51 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:30:51 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:31:26 Europe/Moscow] PHP Notice:  Undefined index: login_not_save in C:\OSPanel\domains\300miners\engine\modules\sitelogin.php on line 81
+[08-Jan-2019 09:31:26 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:31:26 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:32:44 Europe/Moscow] PHP Notice:  Undefined index: login_not_save in C:\OSPanel\domains\300miners\engine\modules\sitelogin.php on line 81
+[08-Jan-2019 09:32:44 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:32:44 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:35:44 Europe/Moscow] PHP Notice:  Undefined variable: find in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 09:35:44 Europe/Moscow] PHP Notice:  Undefined variable: replace in C:\OSPanel\domains\300miners\engine\classes\templates.class.php on line 470
+[08-Jan-2019 08:53:56 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'edu_portal'@'localhost' (using password: YES) in C:\OSPanel\domains\edu-portal\wp-includes\wp-db.php on line 1531
+[08-Jan-2019 08:53:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\OSPanel\domains\edu-portal\wp-includes\wp-db.php on line 1562
+[08-Jan-2019 08:53:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'edu_portal'@'localhost' (using password: YES) in C:\OSPanel\domains\edu-portal\wp-includes\wp-db.php on line 1562
+[08-Jan-2019 08:54:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'edu_portal'@'localhost' (using password: YES) in C:\OSPanel\domains\edu-portal\wp-includes\wp-db.php on line 1531
+[08-Jan-2019 08:54:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\OSPanel\domains\edu-portal\wp-includes\wp-db.php on line 1562
+[08-Jan-2019 08:54:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'edu_portal'@'localhost' (using password: YES) in C:\OSPanel\domains\edu-portal\wp-includes\wp-db.php on line 1562

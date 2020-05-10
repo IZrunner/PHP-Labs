@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+}
+form {
+	text-align: center;
+	margin-top: 150px;
+}
+input {
+	font-size: 16pt;
+	height: 40px;
+	width: 250px;
+	border-radius: 5px;
+}
+input[type="submit"] {
+	width: 150px;
+}

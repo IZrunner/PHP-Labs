@@ -1,0 +1,2 @@
+,
+  CONSTRAINT `fk_quest_test_id` FOREIGN KEY (`test_id`) REFERENCES `tests_list` (`id`)`id`)

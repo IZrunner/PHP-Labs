@@ -1,0 +1,23 @@
+To: m.dvoretskiy@gmail.com
+Subject: =?UTF-8?B?W9CU0L7Qv9C+0LzQvtCz0LAg0YHRgtGD0LTQtdC90YLRgyBJVF0g0KPQstC1?=  =?UTF-8?B?0LTQvtC80LvQtdC90LjQtSDQviDRgdC80LXQvdC1INC/0LDRgNC+0LvRjw==?=
+X-PHP-Originating-Script: 0:class-phpmailer.php
+Date: Thu, 7 Mar 2019 10:56:35 +0000
+From: WordPress <wordpress@edu-portal>
+Message-ID: <68102336dedd0b39978bb653854a3be3@edu-portal>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Привет, test!
+
+Это уведомление подтверждает успешную смену вашего пароля на сайте «Допомога студенту IT».
+
+Если вы не меняли пароль, пожалуйста, напишите администратору сайта на
+m.dvoretskiy@gmail.com
+
+Это письмо было отправлено на m.dvoretskiy@gmail.com
+
+Успехов,
+Команда сайта «Допомога студенту IT»
+http://edu-portal

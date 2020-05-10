@@ -1,0 +1,68 @@
+span.group-number {
+	FONT-SIZE: 1.2em;
+    FONT-WEIGHT: bold;
+    color: darkgreen;
+}
+span.group-department {
+	COLOR: #FF0000;
+} 
+span.group-starosta {
+	FONT-SIZE: 0.8em;
+	COLOR: purple;
+}
+td, th {
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+}
+th {
+	background-color: #c0c0c0;
+	FONT-WEIGHT: bold;
+}
+tr.row {
+	background-color: #f2f2f2;
+	text-align: center;
+}
+header {
+	margin-bottom: 40px;
+}
+form[name='students-filter'] {
+	margin: 7px 0px 7px 0px;
+}
+input[name='stud_name_filter'] {
+	width: 150px;
+}
+div.control a {
+	font-size: 12pt;
+	color: blue;
+	text-decoration: none;
+	border: 1px blue solid;
+	border-radius: 3px;
+	margin: 5px;
+	padding: 5px;
+}
+div.control a:hover {
+	color: blue;
+	font-weight: bold;
+	border: 2px blue solid;
+}
+div.control {
+	margin-bottom: 20px;
+}
+div.user-info {
+	text-align: right;
+	font-size: 16pt;
+	margin-bottom: 20px;
+}
+div.user-info a {
+	color: blue;
+	text-decoration: none;
+	margin-left: 20px;
+}
+div.user-info a:hover {
+	color: skyblue;
+	font-weight: bold;
+}
+body {
+	background: #D387FE;
+}

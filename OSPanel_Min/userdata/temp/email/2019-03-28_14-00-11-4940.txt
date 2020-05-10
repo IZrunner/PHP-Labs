@@ -1,0 +1,23 @@
+To: m.dvoretskiy@gmail.com
+Subject: =?UTF-8?B?W9Cf0YDQsNC60YLQuNGH0L3RliDRgNC+0LHQvtGC0Lgg0LcgV29yZHByZXNz?=  =?UTF-8?B?XSDQktCw0Ygg0YHQsNC50YIg0L7QvdC+0LLQu9C10L3QviDQtNC+IFdvcmRQ?=  =?UTF-8?B?cmVzcyA1LjAuNA==?=
+X-PHP-Originating-Script: 0:class-phpmailer.php
+Date: Thu, 28 Mar 2019 12:00:11 +0000
+From: WordPress <wordpress@wordpress-labs>
+Message-ID: <7cb03db9beac9d96a2c36830ccd55b37@wordpress-labs>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Привіт! Ваш сайт http://wordpress-labs було автоматично оновлено до WordPress 5.0.4.
+
+Дій з вашого боку не потрібно. Подробиці про версію 5.0.4 можна дізнатися на екрані &laquo;Про WordPress&raquo;:
+http://wordpress-labs/wp-admin/about.php
+
+Якщо ви зіткнетеся з проблемами і вам знадобиться підтримка, вам допоможуть волонтери на форумах WordPress.org.
+https://uk.wordpress.org/support/
+
+Також доступні оновлення декількох плагінів або тем. Оновіть їх:
+http://wordpress-labs/wp-admin/
+
+Команда WordPress

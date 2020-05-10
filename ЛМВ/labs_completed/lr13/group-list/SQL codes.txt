@@ -1,0 +1,53 @@
+CREATE TABLE `users` (
+	`id` int(11) NOT NULL,
+	`username` varchar(100) NOT NULL,
+	`passwd` varchar(50) NOT NULL,
+	`rights` varchar(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+ALTER TABLE `users` 
+	ADD PRIMARY KEY(`id`),
+	ADD UNIQUE KEY `username` (`username`);
+
+ALTER TABLE `users`
+	MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+#-------------------------------#
+#-------------------------------#
+#-------------------------------#
+
+CREATE TABLE `groups` (
+	`id` int(11) NOT NULL,
+	`number` varchar(10) NOT NULL,
+	`starosta` varchar(50) NOT NULL,
+	`department` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+ALTER TABLE `groups` 
+	ADD PRIMARY KEY(`id`);
+
+ALTER TABLE `groups`
+	MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+#-------------------------------#
+#-------------------------------#
+#-------------------------------#
+
+CREATE TABLE `students` (
+	`id` int(11) NOT NULL,
+	`name` varchar(150) NOT NULL,
+	`dob` date NOT NULL,
+	`gr_id` int(11) NOT NULL,
+	`privilege` bit(1) NOT NULL,
+	`gender` varchar(3) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+ALTER TABLE `students` 
+	ADD PRIMARY KEY(`id`),
+	ADD KEY `gr_id` (`gr_id`);
+
+ALTER TABLE `students`
+	MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+ALTER TABLE `students`
+	ADD CONSTRAINT `students_ibfk_1` FOREIGN KEY (`gr_id`) REFERENCES `groups` (`id`);

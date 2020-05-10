@@ -1,0 +1,95 @@
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:23 2019] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:25 2019] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Sat Jan 05 09:43:26 2019] [notice] Apache/2.2.34 (Win32) mod_ssl/2.2.34 OpenSSL/1.0.2l configured -- resuming normal operations
+[Sat Jan 05 09:43:26 2019] [notice] Server built: Jul 13 2017 11:31:17
+[Sat Jan 05 09:43:26 2019] [notice] Parent: Created child process 680
+[Sat Jan 05 09:43:26 2019] [notice] Disabled use of AcceptEx() WinSock2 API
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:27 2019] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] RSA server certificate CommonName (CN) `localhost' does NOT match server name!?
+[Sat Jan 05 09:43:29 2019] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Sat Jan 05 09:43:29 2019] [notice] Child 680: Child process is running
+[Sat Jan 05 09:43:29 2019] [notice] Child 680: Acquired the start mutex.
+[Sat Jan 05 09:43:29 2019] [notice] Child 680: Starting 32 worker threads.
+[Sat Jan 05 09:43:29 2019] [notice] Child 680: Listening on port 443.
+[Sat Jan 05 09:43:29 2019] [notice] Child 680: Listening on port 80.
+[Sat Jan 05 10:22:19 2019] [error] [client 127.0.0.1] File does not exist: C:/OSPanel/domains/300miners/templates/300minersV2/design_img/loading.gif, referer: http://300miners/templates/300minersV2/style/slider.css
+[Sat Jan 05 10:22:47 2019] [error] [client 127.0.0.1] File does not exist: C:/OSPanel/domains/300miners/templates/300minersV2/design_img/arrows.png, referer: http://300miners/templates/300minersV2/style/slider.css
+[Sat Jan 05 10:22:47 2019] [error] [client 127.0.0.1] File does not exist: C:/OSPanel/domains/300miners/templates/300minersV2/images/favicon.ico, referer: http://300miners/
+[Sat Jan 05 10:32:59 2019] [error] [client 127.0.0.1] File does not exist: C:/OSPanel/domains/300miners/templates/300minersV2/design_img/loading.gif, referer: http://300miners/templates/300minersV2/style/slider.css
+[Sat Jan 05 10:33:01 2019] [error] [client 127.0.0.1] File does not exist: C:/OSPanel/domains/300miners/templates/300minersV2/design_img/arrows.png, referer: http://300miners/templates/300minersV2/style/slider.css
+[Sat Jan 05 10:36:16 2019] [error] [client 127.0.0.1] File does not exist: C:/OSPanel/modules/system/html/default/favicon.ico, referer: http://127.0.0.1/openserver/phpmyadmin/index.php

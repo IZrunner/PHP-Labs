@@ -1,0 +1,9 @@
+tr.student-boy {
+	background-color: #ADD8E6;
+}
+tr.student-girl {
+	background-color: #FFC0CB;
+}
+tr.student-girl, tr.student-boy {
+	text-align: center;
+}

@@ -1,0 +1,1 @@
+my-laravel;\localhost\lar_test\public

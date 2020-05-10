@@ -1,0 +1,15 @@
+tr.student-boy {
+	background-color: #ADD8E6;
+}
+
+tr.student-girl {
+	background-color: #FFC0CB;
+}
+
+tr.student-boy:hover {
+	background-color: #4fabc9;
+}
+
+tr.student-girl:hover {
+	background-color: #ff1a40;
+}

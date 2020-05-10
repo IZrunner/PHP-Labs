@@ -1,0 +1,9 @@
+[Wed May 08 09:17:57.369265 2019] [ssl:warn] [pid 508:tid 668] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 08 09:17:57.857612 2019] [ssl:warn] [pid 508:tid 668] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 08 09:18:00.890320 2019] [mpm_winnt:notice] [pid 508:tid 668] AH00455: Apache/2.4.27 (Win32) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 08 09:18:00.890320 2019] [mpm_winnt:notice] [pid 508:tid 668] AH00456: Apache Lounge VC14 Server built: Jul  9 2017 11:48:22
+[Wed May 08 09:18:00.891320 2019] [core:notice] [pid 508:tid 668] AH00094: Command line: 'D:\\ospanel-2\\modules\\http\\Apache-PHP-7\\bin\\httpd.exe -d D:/OSPanel-2/modules/http/Apache-PHP-7 -f d:\\ospanel-2\\modules\\http\\Apache-PHP-7\\conf\\httpd.conf'
+[Wed May 08 09:18:01.145869 2019] [mpm_winnt:notice] [pid 508:tid 668] AH00418: Parent: Created child process 32
+[Wed May 08 09:18:03.610063 2019] [ssl:warn] [pid 32:tid 664] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 08 09:18:04.107345 2019] [ssl:warn] [pid 32:tid 664] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 08 09:18:04.196305 2019] [mpm_winnt:notice] [pid 32:tid 664] AH00354: Child: Starting 32 worker threads.

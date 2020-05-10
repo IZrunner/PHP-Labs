@@ -1,0 +1,18 @@
+To: m.dvoretskiy@gmail.com
+Subject: Реєстрація користувача на ресурсі "Допомога студенту ІТ"
+X-PHP-Originating-Script: 0:forms-html.php
+MIME-Version: 1.0
+Content-type: text/html; charset=UTF-8
+
+<div style="width: 750px; margin: 0 auto; font-family: 'Open Sans', sans-serif; color: #262628; border: 1px solid #e8e8e8; border-radius: 4px">
+                <div style="padding: 15px">
+                    <h3 style="color: #53a63a; border-bottom: 1px solid #e8e8e8">Реєстрація</h3>
+                    <span>
+                        Шановний <b>test</b>, будь ласка підтвердіть 
+                        зміну пароля на ресурсі "Допомога студенту ІТ", 
+                        перейшовши за 
+                        <a href="http://edu-portal/?action=forgotPassConfirm&id=22&linkKey=fcba81a791a10793380d3d5832eb9eed">посиланням</a>
+                        <p>Дане посилання дійсне <b>30 хвилин</b> з моменту запиту!</p>                        
+                    </span>
+                </div>
+            </div>

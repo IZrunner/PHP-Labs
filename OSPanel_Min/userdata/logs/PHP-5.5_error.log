@@ -1,0 +1,7 @@
+[13-Mar-2018 10:53:27 Europe/Moscow] PHP Notice:  Undefined variable: version0 in C:\OSPanel\domains\study\ipt\index.php on line 5
+[13-Mar-2018 10:56:37 Europe/Moscow] PHP Fatal error:  Call to undefined function my() in C:\OSPanel\domains\study\ipt\index.php on line 2
+[13-Mar-2018 10:56:44 Europe/Moscow] PHP Fatal error:  Call to undefined function my() in C:\OSPanel\domains\study\ipt\index.php on line 4
+[13-Mar-2018 10:56:45 Europe/Moscow] PHP Fatal error:  Call to undefined function my() in C:\OSPanel\domains\study\ipt\index.php on line 4
+[13-Mar-2018 10:57:52 Europe/Moscow] PHP Fatal error:  Call to undefined function my() in C:\OSPanel\domains\study\ipt\index.php on line 2
+[13-Mar-2018 10:58:03 Europe/Moscow] PHP Fatal error:  Call to undefined function my() in C:\OSPanel\domains\study\ipt\index.php on line 10
+[13-Mar-2018 11:06:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in C:\OSPanel\domains\study\ipt\index.php on line 3
